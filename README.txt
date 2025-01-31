@@ -122,8 +122,4 @@ This project is open-source under the **MIT License**.
 
 ## Author
 
-Developed by **Hariharan**.
-
----
-
-**GitHub Repository**: [https://github.com/Hariharan-2411/rsa-encryption](https://github.com/Hariharan-2411/rsa-encryption)
+Developed by Hariharan Duraisingh
