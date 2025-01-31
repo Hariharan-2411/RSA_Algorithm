@@ -48,8 +48,8 @@ This project implements an **RSA-based encryption, decryption, and digital signa
 ### 1. Clone the Repository
 
 ```sh
-   git clone https://github.com/Hariharan-2411/rsa-encryption.git
-   cd rsa-encryption
+   git clone https://github.com/Hariharan-2411/RSA_Algorithm.git
+   cd RSA_Algorithm
 ```
 
 ### 2. Install Dependencies
