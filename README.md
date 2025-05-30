@@ -115,11 +115,3 @@ Valid Signature
 ## Contributing
 
 Feel free to contribute by submitting pull requests, reporting issues, or improving documentation.
-
-## License
-
-This project is open-source under the **MIT License**.
-
-## Author
-
-Developed by Hariharan Duraisingh
